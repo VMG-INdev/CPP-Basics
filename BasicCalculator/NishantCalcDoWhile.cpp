@@ -1,5 +1,5 @@
 #include<iostream>
-using namesapce std;
+using namespace std;
 int main(){
   do{
     int Enteryourchoice,a,b;
@@ -7,19 +7,19 @@ int main(){
     cin>>Enter your choice;
     cout<<"Enter 2 numbers"<<endl;
     cin>>a>>b;
-    if(Enter your choice==1){
+    if(Enteryourchoice==1){
       cout<<"Addition"<<a+b;
     }
-    else if(Enter your choice==2){
+    else if(Enteryourchoice==2){
       cout<<"Subtraction"<<a-b;
     }
-    else if(Enter your choice==3){
+    else if(Enteryourchoice==3){
       cout<<"Multiplication"<<a*b;
     }
-    else if(Enter your choice==4){
+    else if(Enteryourchoice==4){
       cout<<"Division"<<a/b;
     }
     else cout<<"You have entered a wrong choice";
-  }while(/*Replace it with a proper condition*/);//It would be better if I wrote the code myself
+  }while(Enteryourchoice >=1 && Enteryourchoice <=4 );//It would be better if I wrote the code myself
   return 0;
 }
