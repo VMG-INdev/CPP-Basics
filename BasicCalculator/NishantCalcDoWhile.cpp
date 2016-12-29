@@ -4,7 +4,7 @@ int main(){
   do{
     int Enteryourchoice,a,b;
     cout<<"Choose any one from following options:\n\t1)Addition\n\t2)Subtraction\n\t3)Multiplication\n\t4)Division"<<endl<<"Enter your choice:";
-    cin>>Enter your choice;
+    cin>>Enteryourchoice;
     cout<<"Enter 2 numbers"<<endl;
     cin>>a>>b;
     if(Enteryourchoice==1){
