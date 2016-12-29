@@ -1,5 +1,5 @@
 //Code Compiler: Visual C++
-//Basic Calculator Program
+//Basic Calculator Program Loop using While
 //By, V.Mr.Gamer
 
 #include "stdafx.h"
