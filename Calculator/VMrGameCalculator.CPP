@@ -1,5 +1,6 @@
-// IfandSwitch.cpp : Defines the entry point for the console application.
-//
+// Calculator Project
+//Code Compiler: VC++
+//by VMrGamer
 
 #include "stdafx.h"
 #include "iostream"
