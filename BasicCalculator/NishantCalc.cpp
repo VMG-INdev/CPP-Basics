@@ -1,8 +1,6 @@
 #include<iostream>
 using namesapce std;
-int main();
-
-{
+int main(){
   int Enteryourchoice,a,b;
   cout<<"Choose any one from following options:\n\t1)Addition\n\t2)Subtraction\n\t3)Multiplication\n\t4)Division"<<endl<<"Enter your choice:";
   cin>>Enter your choice;
