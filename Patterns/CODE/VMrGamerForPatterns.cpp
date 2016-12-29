@@ -1,5 +1,6 @@
-// ForPatterns.cpp : Defines the entry point for the console application.
-//
+//For Pattern Basics
+//By VMrGamer/Vedant
+//Code Compiler: Visual C++
 
 #include "stdafx.h"
 #include "iostream"
