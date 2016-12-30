@@ -1,9 +1,9 @@
 #include<iostream>
-using namesapce std;
-int main(void)
+using namespace std;
+int main()
 {
 start:
-  int usr_input, a, b;
+  int usr_input;
   cout<<"Choose any one from following options:\n\t1)Addition\n\t2)Subtraction\n\t3)Multiplication\n\t4)Division"<<endl<<"\nEnter Your Choice";
   cin>>usr_input;
   float a,b;
@@ -24,7 +24,7 @@ start:
   case'4':
     cout << "Division:" << a / b;
     break;
-  default; 
+  default:
     cout << "Incorrect input";
   }
   cout << "\n\nDo you want to continue(Y): ";
