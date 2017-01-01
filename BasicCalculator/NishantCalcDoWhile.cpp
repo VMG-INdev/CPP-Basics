@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+  //declare char
   do{
     int Enteryourchoice,a,b;
     cout<<"Choose any one from following options:\n\t1)Addition\n\t2)Subtraction\n\t3)Multiplication\n\t4)Division"<<endl<<"Enter your choice:";
@@ -20,6 +21,7 @@ int main(){
       cout<<"Division"<<a/b;
     }
     else cout<<"You have entered a wrong choice";
-  }while(Enteryourchoice >=1 && Enteryourchoice <=4 );//It would be better if I wrote the code myself
+    //get input to the char
+  }while(Enteryourchoice >=1 && Enteryourchoice <=4 );//condition if char is 'y' or 'Y'
   return 0;
 }
