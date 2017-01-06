@@ -1,4 +1,28 @@
 1)Hexagon Solid Star
+	
+	e.g., User Input: 3
+		
+		--*
+		-***
+		*****
+		*****
+		*****
+		-***
+		--*
+
+2)Hexagon Hollow Star
+
+	e.g., User Input: 3
+	
+		--*
+		-*-*
+		*---*
+		*---*
+		*---*
+		-*-*
+		--*
+
+3)Octagon Solid Star
 
 	e.g., User Input: 3
 	
@@ -10,7 +34,7 @@
 		-*****
 		--***
 		
-1)Hexagon Hpllow Star
+4)Octagon Hpllow Star
 
 	e.g., User Input: 3
 	
@@ -23,7 +47,7 @@
 		--***
 
 		
-3)Hexagon Alpha-Numeric
+5)Octagon Alpha-Numeric
 
 	e.g., User Input: 3
 		
